@@ -1,6 +1,6 @@
 ## Hi there! 👋  I'm Shahbaz
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahbaz4783&show_icons=true&theme=github_dark">
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=shahbaz4783&theme=black-ice&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=420">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz4783&layout=compact">
 
@@ -14,4 +14,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahbaz4783&theme=vue-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahbaz4783&show_icons=true&theme=github_dark">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@shahbaz4783) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@shahbaz4783)

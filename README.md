@@ -13,3 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahbaz4783&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shahbaz4783&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" />

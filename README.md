@@ -4,6 +4,9 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz4783&theme=github_dark&layout=compact">
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=shahbaz4783&theme=black-ice&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=420">
 
+
+[![wakatime](https://wakatime.com/badge/user/018b6358-ed3f-4039-bb03-5ae24f41191b.svg)](https://wakatime.com/@018b6358-ed3f-4039-bb03-5ae24f41191b)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbaz4783) 
 
